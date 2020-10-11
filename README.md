@@ -1,5 +1,6 @@
 # CandidateFormWebAPI
   Candidate Form CRUD Operations
+  HttpGet,HttpPost,HttpDelete Operations
   
 Get The Code
 
